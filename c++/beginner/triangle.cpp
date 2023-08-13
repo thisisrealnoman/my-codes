@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 
-    double base, height, areaOfTriangle;
+     base, height, areaOfTriangle;
 
     cout<< "Enter the base of the Triangle : ";
     cin>>base;
